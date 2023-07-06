@@ -1,2 +1,2 @@
-# tf-small-vpc
-this is terraform small  vpc project 
+# terraform
+this is terraform project
